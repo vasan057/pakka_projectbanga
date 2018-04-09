@@ -1,0 +1,31 @@
+APP_ENV=local
+APP_DEBUG=true
+APP_KEY=base64:4Casl8RhKDMdKLUIk4urb2Jybrd0OsPXXCI2BbzOLgU=
+APP_URL=http://localhost
+
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=iztcusstomer
+DB_USERNAME=root
+DB_PASSWORD=zodiasc
+
+CACHE_DRIVER=file
+SESSION_DRIVER=file
+QUEUE_DRIVER=sync
+
+REDIS_HOST=127.0.0.1
+REDIS_PASSWORD=null
+REDIS_PORT=6379
+
+MAIL_DRIVER=smtp
+MAIL_HOST=smtp.sendgrid.net
+MAIL_PORT=465
+MAIL_USERNAME=bhoopal
+MAIL_PASSWORD=Bhsreenivasan00p@l9156
+MAIL_ENCRYPTION=SSL
+MAIL_FROM=ubsreenivasanlbps@ubmailsreeniv.com
+MAIL_NAME=supsreemovasamport
+
+GIT_USER = tbhosreeniopal
+GIT_PASS = bhoopalvasan123
