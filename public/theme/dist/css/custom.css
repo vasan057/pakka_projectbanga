@@ -1,0 +1,32 @@
+.table-striped>tbody>tr:nth-child(odd)>td, 
+.table-striped>tbody>tr:nth-child(odd)>th {
+   background-color: #F0DBE0;
+ }
+ 
+ .custom_color{
+	 color:white;
+ }
+#side-menu a.active{
+  color:#000000!important;
+  background-color:#F0DBE0!important;
+}
+.btn-danger{
+  background-color: #9A1031;
+}
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover {
+  background-color: #F0DBE0;
+    border-color: #F0DBE0;
+    color:#000000;
+}
+input[name=q] {
+ 
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: white;
+  background-image: url('searchicon.png');
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+  padding: 2px;
+}
